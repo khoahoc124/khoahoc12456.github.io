@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding:0px;
+}
+#hinh{
+	background-image: url("de.jpg");
+	height: 640px; 
+	background-size: cover;
+}
+h3{
+	padding-top:15px;
+	padding-left:140px;
+	color: white;
+	font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	float: left;
+}
+#call {
+	padding-top:15px;
+	padding-right:140px;
+	color:white;
+	float: right
+}
+h1{
+	padding-top: 50px;
+	text-align: center;
+	color: white;
+			font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:40px; 
+
+}
+p{
+text-align:center;
+	color:white;
+	padding:7px;
+		font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+}
+.contact{
+	font-size: 10px;
+	background-color: orange;
+	color: white;
+	display: block;
+	margin: 0 auto;
+	border-radius:50px;
+	border: none;
+	padding:10px;
+	width: 135px;
+}
+
+#best{ 
+	padding-top: 15px;
+	padding-bottom:15px; 
+	text-align: center;
+	font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 20px;
+	background-color: lightcoral;
+}	
+#best {
+	text-align: center;
+	color: black;
+	padding-bottom:10px;
+	padding-top: 10px;
+	font-size:30px;
+}
+#div1{
+	float: left;
+		width: 33%;
+	text-align: center;
+		font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+		
+	
+}
+#div2{float: left;
+		width: 33%;
+	text-align: center;
+		font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+}
+#div3{float: right;
+		width: 33%;
+	text-align: center;
+		font-family: sans Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+	
+}
+#bg{
+	background-color:lightcoral;
+	color: lightcoral;
+}
+#p3{
+	background-image:url(moon.jpg);
+		background-size: cover;
+		height: 600px;
+	font-size:35px; 
+}
+
+
+.icon1{
+	color: white;
+	font-size:100px;
+	text-align:center;
+	
+
+	
+}	
+.icon2{color:white;
+       text-align: center;
+       font-size:100px;
+
+}
+.icon3{color:white;
+       text-align: center;
+       font-size:100px;
+	
+padding-top:55px;}
+.chu1{
+	font-size:20px;
+	text-align: center;
+	width:33%;
+	float: left;
+	padding-top:90;
+	padding-left:50;
+	color: white;
+}
+.chu2{
+	font-size:20px; 
+		text-align: center;
+	width:33%;
+	float: left;
+	color: white;
+	padding-top:90;
+}
+.chu3{
+	font-size:20px; 
+		text-align: center;
+	width:33%;
+	float:right;
+	color: white;
+	padding-top:90;
+		
+}
+#p4{
+text-align: center;
+	padding-top: 30px;
+	color: black;
+	
+}
+#p4 p{color: black;
+padding:10px }
+#p4 i {
+	color:darkblue;
+	padding: 10px;
+}
+#chuu{color: black;
+font-size: 25px;
+text-align: center;
+	padding-left:500px;
+		padding-right:500px
+ }
+
